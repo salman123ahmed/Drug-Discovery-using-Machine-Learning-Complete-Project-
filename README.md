@@ -15,3 +15,18 @@ We build a regression model using the Random Forest algorithm to predict the pIC
 
 **Part 5: Comparing Regressors**
 In this part, we compare the performance of various machine learning algorithms for building regression models of Acetylcholinesterase inhibitors. We use the LazyPredict library to automate the comparison.
+
+**Requirements**
+To run this project, you will need to install the following dependencies. You can do this by creating a requirements.txt file with the following content:
+
+**numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+lazypredict
+padelpy
+requests
+rdkit
+**
+
