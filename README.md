@@ -19,7 +19,7 @@ In this part, we compare the performance of various machine learning algorithms 
 **Requirements**
 To run this project, you will need to install the following dependencies. You can do this by creating a requirements.txt file with the following content:
 
-**numpy
+``numpy
 pandas
 scikit-learn
 matplotlib
@@ -28,5 +28,6 @@ lazypredict
 padelpy
 requests
 rdkit
-**
+``
+
 
